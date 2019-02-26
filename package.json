@@ -1,0 +1,15 @@
+{
+  "name": "youtube-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "youtube-captions": "node index.js"
+  },
+  "author": "wak-aw-aka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "youtube-captions-scraper": "^1.0.3"
+  }
+}
